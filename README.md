@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **and improving my React, React Native and Flutter skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vuelta7](https://github.com/Vuelta7)
+- 👨‍💻 All of my projects are available at my repositories
 
 - 📫 How to reach me **urielvuelta@gmail.com**
 
