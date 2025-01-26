@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learn-N Learning App](https://github.com/Vuelta7/Learn-N.git)
 
-- 🌱 I’m currently learning **and improving my React, React Native and Flutter skills**
+- 🌱 I’m currently learning **and improving my React, React Native, and Flutter skills**
 
 - 👨‍💻 All of my projects are available at my repositories
 
