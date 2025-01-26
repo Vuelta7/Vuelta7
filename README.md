@@ -1,5 +1,5 @@
 <h2 align="center">Greeting 👋, I'm Mark Uriel Vuelta, also known as Urie("Yuri")</h2>
-<h3 align="center">OBJECTIVE: To secure a developer role in an organization where I can apply my skills in programming, developing mobile apps and websites, and integrating AI technologies, while continuously learning and contributing to impactful projects.</h3>
+<h3 align="center">I am seeking a developer role in an organization where I can utilize my skills in programming, mobile app and website development, and AI technology integration. I am passionate about continuously learning and contributing to impactful projects, while growing as a professional.</h3>
 
 - 🔭 I’m currently working on [Learn-N Learning App](https://github.com/Vuelta7/Learn-N.git)
 
