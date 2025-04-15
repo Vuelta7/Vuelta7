@@ -4,6 +4,5 @@
 <h3>Latest Project:</h3>
 <h4>Learn-N</h4> 
 <div align="center">
-  <img src="learnn_ai_pic.webp" alt="Learn-N Logo" width="400"/>
-  <img src="learnn_showcase.webp" alt="Learn-N Logo" width="400"/>
+  <img src="learnn_view.webp" alt="Learn-N Logo" width="800"/>
 </div>
