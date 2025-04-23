@@ -8,10 +8,10 @@
   <img src="learnn_view.webp" alt="Learn-N" width="800"/>
 </div>
 <div align="center">
-  <img src="flappyface_showcase.webp" alt="Flappy Face" width="800"/>
+  <img src="flappyface_showcase.webp" alt="Flappy Face" width="400"/>
 </div>
 <div align="center">
   <a href="https://www.remiksfd.store/">
-    <img src="remiks_web.webp" alt="Remiks FD" width="800"/>
+    <img src="remiks_web.webp" alt="Remiks FD" width="400"/>
   </a>
 </div>
