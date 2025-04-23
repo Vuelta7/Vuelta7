@@ -12,6 +12,6 @@
 </div>
 <div align="center">
   <a href="https://www.remiksfd.store/">
-    <img src="remiks_web" alt="Remiks FD" width="800"/>
+    <img src="remiks_web.webp" alt="Remiks FD" width="800"/>
   </a>
 </div>
